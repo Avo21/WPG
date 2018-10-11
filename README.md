@@ -1,0 +1,2 @@
+# WPG
+Weak passwords generator
